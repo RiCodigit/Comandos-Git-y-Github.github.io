@@ -435,6 +435,8 @@ git log -S "palabrabuscar"
   
 
 > #### Created BY AugusTCaceresSuarez :fire: :slightly_smiling_face:
+> Alejandro Muñoz
+
 >
 > [August casuarz](https://twitter.com/ACasuarz) 
 >
